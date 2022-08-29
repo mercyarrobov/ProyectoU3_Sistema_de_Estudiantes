@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "630c0325cc1aa7fc2dc87602"
+  },
+  "descripcion": "Juego",
+  "hora_inicio": "8:00am",
+  "hora_final": "12:00pm",
+  "dias": [
+    "Lunes",
+    "Miercoles",
+    "Viernes"
+  ],
+  "aula": "A001"
+}]

@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "630a8053e4cde5029201bead"
+  },
+  "id_student": "2300357890",
+  "calificacion": 0,
+  "fallos": 5
+},{
+  "_id": {
+    "$oid": "630a974ae4cde5029201beaf"
+  },
+  "id_student": "2300357890",
+  "calificacion": 100,
+  "fallos": 0
+},{
+  "_id": {
+    "$oid": "630add98bd7da30d695ba71e"
+  },
+  "id_student": "2300353325",
+  "calificacion": 100,
+  "fallos": 0
+},{
+  "_id": {
+    "$oid": "630c3d0cf1121bcdef50fef2"
+  },
+  "id_student": "234567815",
+  "calificacion": 100,
+  "fallos": 0
+}]

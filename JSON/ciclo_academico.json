@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "630771b39fdb7a44e3f732aa"
+  },
+  "descripcion": "2022-10-2023",
+  "orden": "ASB1",
+  "estado": false
+},{
+  "_id": {
+    "$oid": "630772499fdb7a44e3f732ab"
+  },
+  "descripcion": "2022-10-2024",
+  "orden": "ASB2",
+  "estado": true
+},{
+  "_id": {
+    "$oid": "63079a233741a92c1480fb6f"
+  },
+  "descripcion": "2022-03-2025",
+  "orden": "ASB3",
+  "estado": false
+}]

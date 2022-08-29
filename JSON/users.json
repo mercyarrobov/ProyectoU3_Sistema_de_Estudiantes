@@ -1,0 +1,66 @@
+[{
+  "_id": "2300353337",
+  "username": "mercya",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEwJHVaV3Y0UW91TFB1Mmt5L0VmUnp3VU94OUk1UC9jYXF1U01rYWxvN2dWYUhkbDRKNVBRcTVP",
+      "subType": "00"
+    }
+  },
+  "apellido": "Arrobo",
+  "nombre": "Mercy",
+  "rol_id": "e9ea0764-1804-44bc-b62d-86cc70e05712",
+  "img_url": "https://res.cloudinary.com/dumupynvl/image/upload/v1661731419/zpeqkrqed3zct0tuclol.png"
+},{
+  "_id": "1234567890",
+  "username": "lucym",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEwJFd6Nm5CYXNFVUJyeXE2ZmdCNWJhZHVNbGMvV0NHV1g5cHRVdVFXSElSYi5QTzFYSTVYcTFX",
+      "subType": "00"
+    }
+  },
+  "apellido": "Mosquera",
+  "nombre": "Lucy",
+  "rol_id": "f8a84ab4-3e91-4227-8710-ed6e78a68ae7",
+  "img_url": "https://res.cloudinary.com/dumupynvl/image/upload/v1661731545/kiazmajcc1n1wvjve23e.jpg"
+},{
+  "_id": "234567815",
+  "username": "marthac",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEwJElpRWdYTGJ0ZmRXSWYxV1JiRjRzdU9wZm9LY1RGOHdkakxGZ3F6RDRtR3FuaW56cTV4bUpp",
+      "subType": "00"
+    }
+  },
+  "apellido": "Calle",
+  "nombre": "Martha",
+  "rol_id": "fc42fa7c-25a5-484e-941b-e8f11794b1d0",
+  "img_url": "https://res.cloudinary.com/dumupynvl/image/upload/v1661734388/jfclkhdjtjm6buvcqak1.jpg"
+},{
+  "_id": "4567891235",
+  "username": "juliap",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEwJEcyZ2Y3bTZRZTNsd1JHMGlmd1lJQ3UuUzNPQkkyTDIyUURwMThKYncxcmIvZGlTL04xYVZX",
+      "subType": "00"
+    }
+  },
+  "apellido": "Perez",
+  "nombre": "Julia",
+  "rol_id": "fc42fa7c-25a5-484e-941b-e8f11794b1d0",
+  "img_url": "https://res.cloudinary.com/dumupynvl/image/upload/v1661734524/kdwtust4natbdzlnypmz.jpg"
+},{
+  "_id": "2345678156",
+  "username": "karlav",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEwJERUZTJMaS45RXFwM25DQUF0T0ZIa09Zc0hkSEtpV09TZ0Nwd1N0NDRFWjAvbG1PS1RzUXdH",
+      "subType": "00"
+    }
+  },
+  "apellido": "Valle",
+  "nombre": "Karla",
+  "rol_id": "fc42fa7c-25a5-484e-941b-e8f11794b1d0",
+  "img_url": "https://res.cloudinary.com/dumupynvl/image/upload/v1661734566/r7xn8kjzzimzxwnfp9cw.jpg"
+}]
